@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Solution
 
 Pour intégrer la solution, il suffit d'ajouter la class Partition.java comme class utilitaire dans les futures libs, 
@@ -20,15 +20,4 @@ Donc result va contenir la resultat suivante :
  [ [1,2], [3,4], [5] ]
 
 
-Comment utiliser la rÃ©sultat?
-
-La classe Partition hÃ©rite de la classe AbstractList<List> donc la resultat retourner est tout simplement une liste de liste donc les mÃ©thodes .get(), .size() sont implementÃ©s et prÃ¨s Ã  utiliser
-
-
-
-"# SkillTestingpartitions" 
-=======
-# partition
-SUJET MAISON TEST JAVA
->>>>>>> parent of b64221d (Update README.md)
-"# SkillisTestingTest" 
+ 
